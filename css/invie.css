@@ -57,7 +57,7 @@ body {
 
 .portada {
     background-image: url('../img/background.png');
-    color: white;
+    color: red;
     padding: 20px;
 }
 
@@ -194,7 +194,7 @@ table {
 
 th {
     background: #273b47;
-    color: white;
+    color: yellow;
     text-align: left;
     padding-left: 15px;
 }
