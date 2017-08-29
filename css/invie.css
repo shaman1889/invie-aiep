@@ -56,7 +56,7 @@ body {
 }
 
 .portada {
-    background-image: url('../img/background.png');
+    background-image: url('http://www.psicologiadelcolor.es/wp-content/uploads/2017/04/google-psicologia-del-color.jpg');
     color: red;
     padding: 20px;
 }
